@@ -1,0 +1,70 @@
+These are traditional IT roles:
+
+1. IT Solutions Architect:
+- They creates high-level solns for business apps, systems, portfolios, infrastructures, or entire enterprise.
+- They also develop IT services and solns for business and design, manage communications, security, networking and storage.
+
+2. Sys Admin:
+- They keep servers up and running, do patching and updates of OS, hardware, hypervisors and makes backup.
+- install, support and maintain systems and servers.
+- On-prem they handles physical hardware, but in cloud it will go into cloud responsibility.
+
+3. Network Admin:
+- They administer network access points.
+- They are concered with security around personnel access, IAM, configs and VPNs.
+- design, install, configure and maintain LAN and WAN.
+- Kind of Cyber admin.
+
+4. Desktop Admin:
+- They install, maintain apps on desktop and laptop.
+- They work with Network Admin for network and security configs.
+- deploy configure, manage, secure ad monitor devices and apps.
+
+5. Application Admin:
+- They handles web and customer apps.
+- They work with Sys Admin to host and maintain apps on servers.
+- They also partner with Network Admin for app access control.
+
+6. DB Admin:
+- They build, databases by working along with Sys Admin on the servers that DB is on.
+- They work with Network Admin for DB access control.
+
+
+
+
+* Traditional roles evolvse after cloud migration.
+
+* These are 4 major roles in the cloud:
+
+1. Cloud Archutect:
+- Build blueprint of cloud architect for highly available, cost-efficient and scalable cloud envs.
+- Assist in deployment in the cloud env and app architect for all aspects of the cloud.
+- They are cloud SME for business migration to cloud env.
+- They are like Cloud Soln Architect team.
+
+2. Sys Admin:
+- They are responsible for overall performance of cloud systems.
+- They are the bridge that keeps all cloud services together by managing configs, conpleting detailed tasks and helping DB admin setting up DB servers in the cloud.
+- They maintain data integrity by deploying, cofiguring and monitoring hybrid and cloud solns instead of infrastructure performance and maintainance.
+- They should be proficient with config mgmt, requirements gathering, deployment planning and completing detailed hands-on tasks.
+- They are like Cloud Sys Ops team.
+
+3. Security Admin:
+- AWS is responsible for security OF the cloud and customer is responsible for security IN the cloud.
+- Security IN the cloud is security Admin responsibility.
+- They protect data and resources in the cloud.
+- They investigates security incidents, outs standards and dev process i place to lower security incidents.
+- They do not need to be SME but they should be able to define security requirements based on their company's security and regulatory requirements.
+- They should be expert in security rules applicable to their business requirements.
+- They should be able to communicate rules down to engineers.
+- install, configure, manage, monitor and enforce security.
+
+4. DevOps Admin:
+- They optimize cloud services at larger, faster scale by managing developers and orchestrating tools and stages in pipeline.
+- They creates and maintains processes for developers and teams to follow small and rapid releases.
+- They manages release cycle that are developed, tested and pushed to prod.
+- They frequently test and back out changes if issue occurs and roll back changes if something doesn't work.
+- They are proficient in scripting languages, operations, QA and testing.
+
+*Traditional Sys Admin, Network admin, Desktop admin roles can be transfer into Cloud's Sys Admin and Security Admin roles.
+* Traditional DB admin and Application Admin roles can be transfer into Cloud's DevOps Admin role.
