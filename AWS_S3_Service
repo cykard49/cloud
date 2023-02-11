@@ -1,0 +1,24 @@
+- Amazon Simple Storage Service (s3) has unlimited storage service but individual service cannot be more than 5TB in size.
+- Has 99.999999999% durability and up to 99.99% availability
+* S3 are classified how they are loaded and accessed from and into S3:
+    - S3 Intelligent-Tiering: Auto cost savings by auto-tiering with any access pattern.
+    - S3 Standard: General purpose storage for active, for data which are frequently accessed.
+                   This doesn’t have per GB retrieval cost. Here we pay more to store object but pay less to retrieve data.
+    - S3 Standard-Infrequent Access (S3 Standard-IA): Low-cost storage for data accessed monthly and requires milliseconds retrieval.
+    - S3 Glacier Instant Retrieval: Low-cost storage for long lived data, with retrieval in milliseconds.
+    - S3 Glacier Flexible Retrieval: Long-term, low-cost storage for backups and archives with retrieval options from minutes to hours.
+    - S3 Glacier Deep Archive: Lowest cost cloud storage for long term, rarely accessed archive data, with retrieval in hours.
+    - S3 1 Zone-Infrequent Access (S3 1 Zone-IA): Infrequently accessed data in a single AZ for cost savings.
+    - S3 on Outposts: Delivers object storage to on-premises AWS outposts environments to meet local data processing and data residency needs. Encrypted with SSE-S3
+ * Infrequent access S3 services have more retrieval cost and lower storage cost.
+
+-	S3 Security: 
+    -	Data stored in S3 is secure by default.
+    -	Access control with IAM and bucket policies.
+    -	S3 Access points
+    -	S3 Block Public Access: Restrict to specific VPC with firewall
+    -	IAM Access Analyzer: helps to identify what data are shared externally
+    -	Encrypt data by default in S3
+    
+•	EXAM: S3 Transfer Acceleration helps reduce network variability by physically shortening the distance between apps and AWS.
+        Any question speaking about long distance uploads, or finding ways to increase data transfer with S3, consider S3TA.
