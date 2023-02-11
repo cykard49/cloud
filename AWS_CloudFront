@@ -1,0 +1,6 @@
+- AWS CloudFront:
+    -	This is AWS Content Delivery Network (CDN).
+    -	Uses Point of Presence (PoP), edge locations and regional caches, to bring content closer to users by caching.
+    -	This service securely reduces latency and provides high transfer speeds.
+    
+-	EXAM: Question addressing distribution of content to a global audience typically points to use of CloudFront.
