@@ -22,7 +22,7 @@ After learning and understanding:
     - https://learntocloud.guide/projects
     - AwS Workshops
     - AWS Ramp-up guides
-- Cloud resume challenge website
+- Cloud resume challenge website: cloudresumechallenge.dev
 
 Phase 4:
 Post-learning and hands-on practice:
