@@ -1,15 +1,22 @@
+PHASE 1:
+- Study and get an AWS Solution Architect Associate certificate.
+    - freeCodeCamp.rg YouTube channel: AWS certificate course video
+
+PHASE 2:
 For learning:
   - Learn Networking
   - Learn Linux
   - Learn Python
       - Google IT Automation with Python Professional Certificate free course
-  - Learn virtualization [hypervisors, containers, docker, k8s]
+  - Learn virtualization:
+      - containers
+      - Docker
+      - k8s
   - Learn Terraform
 - FREE CLOUD FOR BEGINNERS GUIDE: https://techwithsoleyman.com/
-- freeCodeCamp.rg youtube channel: AWS certificate course video
-- Study and get AWS Solution Architect Associate certificate.
 
 
+PHASE 3:
 After learning and understanding:
 - Do some hands-on projects.
     - https://learntocloud.guide/projects
@@ -17,10 +24,11 @@ After learning and understanding:
     - AWS Ramp-up guides
 - Cloud resume challenge website
 
-Post learning and hands-on practice:
+Phase 4:
+Post-learning and hands-on practice:
 - Clean LinkedIn profile
-- Make website resume
-- Make youtube video of some projects
-- Make github repositories of different projects
-- Try to find any cloud related program (at work or at Upwork, fiverr)
-- Network with people who are on the same field. Attend events
+- Make a website resume
+- Make YouTube video of some projects
+- Make GitHub repositories of different projects
+- Try to find any cloud-related program (at work or Upwork, Fiverr)
+- Network with people who are in the same field. Attend events
